@@ -11,4 +11,4 @@ Following are the steps to run the project
 3. Run `npm i`
 4. Compile typescript using `tsc` or start it in watch mode using `tsc -w`
 5. Run `npm start` to start the lite-server
-6. It will open a tab with this project in your browsers
+6. It will open a tab with this project in your browser.
