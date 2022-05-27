@@ -10,10 +10,6 @@ body {
   margin: 0;
 }
 
-#app {
-  display: flex;
-}
-
 label,
 input,
 textarea {
@@ -62,7 +58,6 @@ button:active {
 .projects {
   margin: 1rem;
   border: 1px solid #ff0062;
-  flex: 1
 }
 
 .projects header {
@@ -75,7 +70,6 @@ button:active {
 
 #finished-projects {
   border-color: #0044ff;
-  flex: 1;
 }
 
 #finished-projects header {
