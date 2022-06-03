@@ -1,11 +1,12 @@
 {
-  "name": "understanding-typescript",
+  "name": "drag-and-drop",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
-  "main": "app.js",
+  "description": "A drag and drop project in typescript",
+  "main": "src/app.ts",
   "scripts": {
     "start": "lite-server",
-    "build": "webpack --config webpack.config.prod.js"
+    "build": "webpack --config webpack.config.prod.js",
+    "document": "typedoc --out docs src/app.ts"
   },
   "keywords": [
     "typescript",
